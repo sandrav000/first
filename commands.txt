@@ -7,3 +7,9 @@ Tracking code changes
 Tracking who made changes
 Coding collaboration
 
+git init
+git add -A
+git commit -m "initial commit"
+git remote add lab http://github.com/.git
+git remote -v
+git push -u A master
